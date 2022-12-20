@@ -1,0 +1,19 @@
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\Bannerlord Kingdom Customizer.exe
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\Bannerlord Kingdom Customizer.deps.json
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\Bannerlord Kingdom Customizer.runtimeconfig.json
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\Bannerlord Kingdom Customizer.dll
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\Bannerlord Kingdom Customizer.pdb
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.csproj.AssemblyReference.cache
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord_Kingdom_Customizer.FormMain.resources
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.csproj.GenerateResource.cache
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.AssemblyInfoInputs.cache
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.AssemblyInfo.cs
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.csproj.CoreCompileInputs.cache
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.csproj.CopyComplete
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.dll
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\refint\Bannerlord Kingdom Customizer.dll
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.pdb
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\Bannerlord Kingdom Customizer.genruntimeconfig.cache
+D:\Visualstudio Projects\Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer\obj\Debug\net6.0-windows\ref\Bannerlord Kingdom Customizer.dll

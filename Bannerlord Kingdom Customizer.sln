@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bannerlord Kingdom Customizer", "Bannerlord Kingdom Customizer\Bannerlord Kingdom Customizer.csproj", "{CA99B47F-D8C8-4B3C-8324-E2A764442392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA99B47F-D8C8-4B3C-8324-E2A764442392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA99B47F-D8C8-4B3C-8324-E2A764442392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA99B47F-D8C8-4B3C-8324-E2A764442392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA99B47F-D8C8-4B3C-8324-E2A764442392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628BD531-D3D3-4703-AE74-92D064757152}
+	EndGlobalSection
+EndGlobal
