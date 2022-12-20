@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tK0i7trJ75nNm85UUogJtQgYio3bbLuNSQeLiVWZLgiXEndPMWnuv3V0v6HgMmf71rFvvzrK4KpEZ8zRXE4Y5w==",
+  "dgSpecHash": "K2XKggHNi7gU/DDsShk713YINbsQ/zXHkyzmXczCbRlfPhzO2QqkStDLvHCujPJ9AOL18wzQsRMBaDjjgopSXA==",
   "success": true,
   "projectFilePath": "D:\\Visualstudio Projects\\Bannerlord Kingdom Customizer\\Bannerlord Kingdom Customizer\\Bannerlord Kingdom Customizer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Aorus\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
